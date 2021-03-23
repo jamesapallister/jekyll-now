@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello world
+title: Hello world+
 published: true
 ---
 
@@ -18,4 +18,4 @@ But tell us about the Tech Stack James! Well, it's a thing built with Jekyl that
 
 Anyway, I put this together this evening after the kids had gone to bed, fumbling my way through github instructionals and listening to William Orbit, then Massive Attack, and finishing with Moloko.
 
-Unlike my usual forays into code, it actually worked. And the focus required, coupled with a goldilocks level of difficulty - not too easy, not too sweary - made for a quite a pleasant few hours. Also, I quite like the idiosyncratic pairing of github-and-prose-as-a-CMS. 
+Unlike my usual forays into code, it actually worked. And the focus required, coupled with a goldilocks level of difficulty - not too easy, not too sweary - made for a quite a pleasant few hours. Also, I quite like the idiosyncratic pairing of github-and-prose-as-a-CMS.
