@@ -9,11 +9,11 @@ I'm quite good at making notes, and record keeping, so my ideas generally make i
 
 What I find more difficult, is getting them all in one place, ordering and prioritising them.
 
-A LONGER GAP BETWEEN CAUSE AND EFFECT = MORE COMFORT + MORE REQUIREMENT TO CHOOSE THE NEXT TASK WISELEY
-
 One of the things I like about working on my own businesses, or with other small businesses, is the close feedback between where your next invocie is going to, or sale you'll make, and where you should be spending your efforts now. 
 
-There's less of the unfoccussed chin stroking that can happen in larger organisations - some of it neccessary, bigger orgs require different ways of being - that you can't quite get away with in a leaner outfit. 
+There's less of the unfoccussed chin stroking that can happen in larger organisations - some of it neccessary, bigger orgs require different ways of being - that you can't quite get away with in a leaner outfit.
+
+That said, having the luxury of space to choose which move to take next is generally a positive sign you've leeway in your business, so not to be sniffed at.
 
 
 ![A technique to prioritise your business backlog]({{site.baseurl}}/_posts/IMG_3970.jpeg)
@@ -26,7 +26,7 @@ That all said, if the business is going well, you kind of want to be in a positi
 
 And once you move away from the important + urgent quadrant, there's generally a million possible tasks me and the team *could* be working on, but without good prioritisation, it's easy to find yourself with your wheels spinning, doing nothing fast.
 
-CUTTING THROUGH THE OVERWHELM
+**Cutting through the overwhelm**
 
 Aside from the waste, this is emotionally taxing. Temperamentally I'm pretty comfortable with a high volume of inputs and ambiguity, but at some point it just gets too much*. 
 
@@ -37,17 +37,18 @@ Which is why I'm making a note of the process we've used to prioritise today. I 
 ![prioritising backlog]({{site.baseurl}}/_posts/prioritising-backlo-james-pallister.jpg)
 
 
-GETTING BRUTAL ON THE BACKLOG
+Getting brutal on the backlog
 
 Here's what we did. We took the view that most tasks fall into one of these categories:
 
-    1. Existing products: things we already do, photo shoots, pop up retail, space hire etc. 
+1. Existing products: things we already do, photo shoots, pop up retail, space hire etc. 
 
-    2. New products: ideas we've got for more high concept or 'fiddly' stuff, courses, product shots as a service, subscriptions etc
+2. New products: ideas we've got for more high concept or 'fiddly' stuff, courses, product shots as a service, subscriptions etc
+
 
 If it's 2, we're gonna ignore it for the while. 
 
-SERENITY THROUGH SIMPLICITY
+Serenity through simplicity
 
 Turns out, the combination of recording-yet-postponing the new ideas frees up a bit of headspace. Here's the thinking behind why we're trying to develop the bread and butter before moving onto fancy stuff. 
 
@@ -55,12 +56,12 @@ The shop is under-rented, and though the more conceptual stuff may be potentiall
 
 So we're focussing on increasing volume of bookings at the moment. The more bookings, the more people see the space and experience it, the more enquires we get. And the more we do, the better our 'system' and skills can cope with more complex stuff.
 
-IT'S EITHER SELLING OR SERVING
+It's either selling or serving 
 
 Within that list of jobs associated with existing products (or new products, for that matter) pretty much everything fits into either:
 
-	1. Trying to get new customers to give you money(or new custom off existing customers)
-	2. Serving customers who are giving you money
+1. Trying to get new customers to give you money(or new custom off existing customers)
+2. Serving customers who are giving you money
 
 Within '1', you can subdivide into 'Gaining leads' + 'Converting leads' but we're trying to keep it simple, so we won't bother. 
 
@@ -68,7 +69,7 @@ Serving customers encompasses anything that makes the experience better for the 
 
 This generally means protocols, systems and standard operating procedures, which in turn generally make life better and less stressful for us.
 
-...OR MAYBE SOME ADMIN
+..or perhaps it's admin
 
 Anything else which doesn't fit into the above, goes into:
 
@@ -80,7 +81,7 @@ So now we've got a much clearer idea of what we need to focus on, a smaller thin
 
 I might try the coach;easyjet; private jet grid to further chunk down the tasks and whip up a more clearly prioritsed set of tasks that will help us cover the basics quickly, then gradually get fancier. 
 
-BUT WHAT ABOUT ALL THOSE GREAT IDEAS YOU'VE GOT!?
+But what about all those great ideas?!
 
 Ah yes, ideas...
 
@@ -92,9 +93,11 @@ One of the things we probably need to do next is
 	b) map them on a 'effort to do' vs 'money to gain' 2x2 and decide which ones we'd like to take forward
     c) decide how much capacity we have for new product development in a given quarter / half year and then allocate them accordingly.
 
-IT NEVER GOES TO PLAN, BUT THE PLAN STILL HELPS
+It never goes to plan, but the plan still helps
 
 So that's the process. Let's see how it works.
+
+At least it's helped reduce overwhelm and suggest the next steps. 
 
 I like ready reckoners and heuristics to not reinvent the wheel, so hopefully I can use this in other contexts. 
 
