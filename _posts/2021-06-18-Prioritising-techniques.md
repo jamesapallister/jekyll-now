@@ -13,7 +13,7 @@ One of the things I like about working on my own businesses, or with other small
 
 There's less of the unfoccussed chin stroking that can happen in larger organisations - some of it neccessary, bigger orgs require different ways of being - that you can't quite get away with in a leaner outfit.
 
-That said, having the luxury of space to choose which move to take next is generally a positive sign you've leeway in your business, so not to be sniffed at.
+That said, having the luxury of space to choose which move to take next is generally a positive sign you've leeway and 'fat' (the good sort) in your business, so it's a position to be aimed for, rather than sniffed at.
 
 
 ![A technique to prioritise your business backlog]({{site.baseurl}}/_posts/IMG_3970.jpeg)
