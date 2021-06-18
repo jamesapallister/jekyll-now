@@ -1,3 +1,6 @@
+---
+published: false
+---
 What to do next to grow the business: a technique to help prioritise 
 
 I'm quite good at making notes, and record keeping, so my ideas generally make it onto one of several trello boards.
@@ -55,4 +58,3 @@ So that's the process. Let's see how it works
 
 
 *Incidentally, my theory is that eveyrone has a set point of ambiguity they can cope with. This set point is plastic, and like a muscle, can be stressed (in a good way), developed and grown, but if there's a load of stuff up in the air in one part of your life, it may impact how much you can deal with in others.
-
