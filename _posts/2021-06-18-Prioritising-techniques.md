@@ -37,7 +37,7 @@ Which is why I'm making a note of the process we've used to prioritise today. I 
 ![prioritising backlog]({{site.baseurl}}/_posts/prioritising-backlo-james-pallister.jpg)
 
 
-Getting brutal on the backlog
+### Getting brutal on the backlog
 
 Here's what we did. We took the view that most tasks fall into one of these categories:
 
@@ -48,8 +48,7 @@ Here's what we did. We took the view that most tasks fall into one of these cate
 
 If it's 2, we're gonna ignore it for the while. 
 
-Serenity through simplicity
-
+## Serenity through simplicity
 Turns out, the combination of recording-yet-postponing the new ideas frees up a bit of headspace. Here's the thinking behind why we're trying to develop the bread and butter before moving onto fancy stuff. 
 
 The shop is under-rented, and though the more conceptual stuff may be potentially more profitable and or more lucrative (they're different, I think), there's plenty custom we're leaving on the table by not having higher occupancy. 
