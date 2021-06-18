@@ -1,7 +1,9 @@
 ---
-published: false
+published: true
 ---
-What to do next to grow the business: a technique to help prioritise 
+What to do next to grow the business: a technique to help prioritise and cut through the overwhelm
+
+--
 
 I'm quite good at making notes, and record keeping, so my ideas generally make it onto one of several trello boards.
 
