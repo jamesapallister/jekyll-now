@@ -16,7 +16,7 @@ There's less of the unfoccussed chin stroking that can happen in larger organisa
 That said, having the luxury of space to choose which move to take next is generally a positive sign you've leeway and 'fat' (the good sort) in your business, so it's a position to be aimed for, rather than sniffed at.
 
 
-![A technique to prioritise your business backlog]({{site.baseurl}}/_posts/IMG_3970.jpeg)
+![A technique to prioritise your business backlog](posts/IMG_3970.jpeg)
 
 *My personal favourite example of focussed skin in the game is the Christmas tree salesman to do list in early december, but that's a different story. You're not allowed to do anything in the 'better' list until the 'basic' is covered. AKA the 'National Express - Easyjet - Private jet matrix'. 
 *
