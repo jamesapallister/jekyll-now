@@ -18,6 +18,8 @@ That said, having the luxury of space to choose which move to take next is gener
 
 ![A technique to prioritise your business backlog](https://jamesapallister.github.io/jekyll-now/posts/IMG_3970.jpeg)
 
+![]({{site.baseurl}}/https://raw.githubusercontent.com/jamesapallister/jekyll-now/master/_posts/IMG_3970.jpeg)
+
 *My personal favourite example of focussed skin in the game is the Christmas tree salesman to do list in early december, but that's a different story. You're not allowed to do anything in the 'better' list until the 'basic' is covered. AKA the 'National Express - Easyjet - Private jet matrix'. 
 *
 
