@@ -9,7 +9,9 @@ I run a boutique studio that helps clients with their storytelling, narrative an
 ### Some current projects
 
 Helping small businesses sell more and take the risk out of starting to export at great.gov.uk
+
 Making it easier - and more affordable - for small businesses and government agencies to run tree tests at treelly.com
+
 Building a space on the high street to support small businesses at hostofleyton.com
 
 ### Contact me
